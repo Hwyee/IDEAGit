@@ -14,6 +14,7 @@ public class Happy {
         System.out.println("conflict01");
         System.out.println("conflict02");
 
+        System.out.println("release");
     }
 
 }
