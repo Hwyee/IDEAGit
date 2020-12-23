@@ -16,6 +16,7 @@ public class Happy {
 
         System.out.println("release");
         System.out.println("Gitee");
+        System.out.println("GitEE_SSH");
     }
 
 }
